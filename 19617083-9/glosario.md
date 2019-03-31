@@ -71,6 +71,8 @@ Fuente:https://help.github.com/en/articles/github-glossary
 n)Status:
 Permite ver la lista de archivos que se han editado en el repositorio de manera de poder verificar y confirmar con seguridad los datos que fueron afectados.
 
+o)Log:Comando que permite recuperar informacion acerca de mensajes y codigos efectuados.
+
 Fuente:https://help.github.com/en/articles/about-status-checks
 
 p)Checkout:
