@@ -33,8 +33,10 @@ Es un archivo simple en el cual se encuentran informacion acerca de las futuras 
 Fuente:https://git-scm.com/book/en/v1/Getting-Started-Git-Basics
 
 f)Preaparar cambios / State Changes:
+Es el estado en el que se realizan cambios al repositorio de manera de poder llevar un registro de las distintas modificaciones y versiones.
 
-g)Confirmar Cambios:
+
+g)Confirmar Cambios:Es cuando se da la aprovacion de las modificaciones efectuadas.
 
 h)Commit:
 Corresponde a una revision/actualizacion de a un archivo o a un conjunto de ellos, el cual permite llevar un registro de cuando se realizaron cambios o por quien, ademas de que generalmente dichas ediciones pueden ser acompañadas por comentarios respecto a lo que se realizo.
@@ -70,8 +72,6 @@ n)Status:
 Permite ver la lista de archivos que se han editado en el repositorio de manera de poder verificar y confirmar con seguridad los datos que fueron afectados.
 
 Fuente:https://help.github.com/en/articles/about-status-checks
-
-o)Log:
 
 p)Checkout:
 Comando por el cual puedes navegar entre ramas creadas por git branch. 
