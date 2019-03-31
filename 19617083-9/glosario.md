@@ -1,5 +1,5 @@
 
-Acontinuacion se definiran los comandos y conceptos enunciados en el Taller 0.
+A continuacion se definiran los comandos y conceptos enunciados en el Taller 0.
 
 a)Control de versiones (VC):
 Corresponde a un sistema el cual permite almacenar los cambios que han de haber durante el desarrollo de un proyecto a lo largo del tiempo de modo que en caso de haber errores o un punto de no retorno en el proyecto, existan versiones anteriores a las que se pueda acceder de manera de poseer una copia segura de la ultima actualizacion funcional del programa.
@@ -71,7 +71,7 @@ Fuente:https://help.github.com/en/articles/github-glossary
 n)Status:
 Permite ver la lista de archivos que se han editado en el repositorio de manera de poder verificar y confirmar con seguridad los datos que fueron afectados.
 
-o)Log:Comando que permite recuperar informacion acerca de mensajes y codigos efectuados.
+o)Log:Comando que permite recuperar informacion acerca de mensajes y codigos efectuados por medio de 'commit'.
 
 Fuente:https://help.github.com/en/articles/about-status-checks
 
